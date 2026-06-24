@@ -16,3 +16,7 @@ command for installing Zephyr
 ``````
 ......
 ``````
+<<<<<<< HEAD
+
+=======
+>>>>>>> a97053c44855248a65ac1cfc85882c990667c4f0
