@@ -9,12 +9,12 @@ Requires installing the recovery mode I created for the phone and an installatio
 
 recovery mode repository link
 ``````
-......
+
 ``````
 
 command for installing Zephyr
 ``````
-......
+
 ``````
 
 ==============================
