@@ -16,7 +16,7 @@
 #include <asm/scs.h>
 #include <asm/smp.h>
 #include <asm/sysreg.h>
-#include <asm/thread_info.h>
+#include <asm/thread_info.h><asm/thread_info.h>undefined
 #include <asm/virt.h>
 
 #include "efi-header.S"
