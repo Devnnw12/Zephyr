@@ -286,7 +286,6 @@
 #include <time.h>
 #include <signal.h>
 
-#ifdef use Extern "C"
 
 #endif
 
